@@ -11,7 +11,7 @@ How to install
 --------------
 
 ```sh
-> go get github.comf/futoase/fizzbuzz-go
+> go get github.com/futoase/fizzbuzz-go
 ```
 
 How to use
