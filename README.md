@@ -5,6 +5,8 @@ fizzbuzz-go
 
 fizzbuzz go version.
 
+This is sample product, entry on the this [Qiita page (Japanese)](http://qiita.com/futoase/items/73b7ca9fb16ca588ad6f).
+
 How to install
 --------------
 
